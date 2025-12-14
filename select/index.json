@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ホット・スタッフ",
+  "base_artist": "Donna Summer",
+  "createdAt": "2025-12-14T21:36:05.937075Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hot Stuff",
+      "artist": "Donna Summer",
+      "has_synced": false,
+      "path": "select/pl_01_Hot_Stuff_Donna_Summer.txt"
+    }
+  ]
+}
